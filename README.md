@@ -1,6 +1,4 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/______dinesh_____07) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=maheshbommini-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=maheshbommini-stack&theme=dark&hide_border=false)<br/>
